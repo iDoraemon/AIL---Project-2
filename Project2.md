@@ -26,7 +26,7 @@ This time, with just color averaging with RGB, the data is much smaller in scale
 
 - Use Logistic Regression.
 - Error:
--
+
  	+) In training: 0.657112527
 
 	+) In testing: 	0.676616915
