@@ -26,7 +26,9 @@ This time, with just color averaging with RGB, the data is much smaller in scale
 
 - Use Logistic Regression.
 - Error:
+-
  	+) In training: 0.657112527
+
 	+) In testing: 	0.676616915
 
 The error is high. As I said, we can't expect good result from a poor feature table.
