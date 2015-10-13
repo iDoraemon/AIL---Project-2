@@ -9,9 +9,11 @@ Using color average, dataset is exported to "data.csv" file. The format looks li
 	...
 	
 In detail, the table consists of:
+
 a) 4 collumns:
 - f1, f2, f3: red, green, blue, respectively.
 - category: one of "coast", "forest", "highway", "insidecity", "mountain", "opencountry", "street", "tallbuilding".
+
 b) 2689 collumns:
 - correspond to 2688 images and 1 header row.
 
